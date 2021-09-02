@@ -33,7 +33,7 @@ The `<hsts>` element of the `<site>` element is included in the default installa
 
 ## How To
 
-There is no user interface that lets you configure the `<hsts>` element of the `<site>` element for IIS 10.0 version 1709. For examples of how to configure the `<hsts>` element of the `<site>` element programmatically, see the [Sample Code](#006) section of this document.
+There is no user interface that lets you configure the `<hsts>` element of the `<site>` element for IIS 10.0 version 1709. For examples of how to configure the `<hsts>` element of the `<site>` element programmatically, see the [Sample Code](#006) section of this document. Later versions of IIS 10.0 do have a user interface that allows you to set HSTS values that can be found in the Advanced Settings.
 
 ## Configuration
 
